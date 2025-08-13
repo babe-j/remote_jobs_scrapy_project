@@ -14,7 +14,7 @@ For this project, I collected datasets from three sources, RemoteOK, Himalayas, 
 The data scraping process was carried out using the following Python packages:
 - RemoteOK →  **_Scrapy_**
 -  Himalayas → **_Playwright_**
-- Upwork → **_no driver & Playwright_ **
+- Upwork → **_no driver & Playwright_**
 
 ##Data Processing and Storage 
 
@@ -29,7 +29,8 @@ After extracting, each dataset was stored in a CSV file, and **_Pandas_** was us
 
 The datasets were analyzed to determine  the most in-demand skills overall and the most in-demand skills by experience level (entry, intermediate, and expert) among others
 
-[PowerBi Link](https://app.powerbi.com/reportEmbed?reportId=9833a8e7-9e3c-434b-b24f-2915d21dfd55)
+[PowerBi Link]([https://app.powerbi.com/reportEmbed?reportId=9833a8e7-9e3c-434b-b24f-2915d21dfd55](https://app.powerbi.com/reportEmbed?reportId=9833a8e7-9e3c-434b-b24f-2915d21dfd55&autoAuth=true&ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042)
+
 This link contains the visualizations and dashboards created from the dataset, showcasing all the insights derived from the analysis.
 
 **Table of Contents**
