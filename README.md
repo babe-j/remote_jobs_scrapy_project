@@ -34,9 +34,3 @@ The datasets were analyzed to determine  the most in-demand skills overall and t
 
 This link contains the visualizations and dashboards created from the dataset, showcasing all the insights derived from the analysis.
 
-**Table of Contents**
-
-- [Introduction](#introduction)
-- [Data Scraping](#data-scraping)
-- [Data Processing and Storage](#data-processing-and-storage)
-- [Data Analysis](#data-analysis)
