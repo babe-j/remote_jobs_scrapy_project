@@ -28,9 +28,13 @@ After extracting, each dataset was stored in a CSV file, and **_Pandas_** was us
 
 ## Date Analysis
 
-The datasets were analyzed to determine  the most in-demand skills overall and the most in-demand skills by experience level (entry, intermediate, and expert) among others
+The datasets were analyzed to determine the most in-demand skills overall and the most in-demand skills by experience level (entry, intermediate, and expert), among others
 
-[**PowerBi Link**](https://app.powerbi.com/reportEmbed?reportId=9833a8e7-9e3c-434b-b24f-2915d21dfd55&autoAuth=true&ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042)
+Check out the Power BI visualizations built from the three datasets here → [View Dashboard](
+https://app.powerbi.com/reportEmbed?reportId=9833a8e7-9e3c-434b-b24f-2915d21dfd55&autoAuth=true&ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042)  
+I also broke down the findings and shared deeper insights in my Medium story → [Read Here](https://medium.com/@babej/remote-jobs-nigerians-should-target-in-2025-backed-by-real-data-6b4ea72e8e90)
 
-This link contains the visualizations and dashboards created from the dataset, showcasing all the insights derived from the analysis.
+
+
+
 
