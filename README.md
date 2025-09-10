@@ -26,7 +26,7 @@ After extracting, each dataset was stored in a CSV file, and **_Pandas_** was us
 - The merged dataset was then loaded into Power BI for analysis.
 
 
-## Date Analysis
+## Data Analysis
 
 The datasets were analyzed to determine the most in-demand skills overall and the most in-demand skills by experience level (entry, intermediate, and expert), among others
 
